@@ -1,15 +1,15 @@
 {
-  "auto-title": 443,
-  "balance-meter": 173,
-  "claude-ip-check": 57,
-  "composer-rainbow-border": 400,
-  "engine-hopper": 62,
-  "model-switcher": 538,
-  "react-doctor": 267,
-  "service-status": 73,
-  "session-notes": 58,
-  "session-rainbow-border": 1,
-  "token-meter": 385,
-  "window-model-assistant": 41,
-  "wsl": 141
+  "auto-title": 455,
+  "balance-meter": 177,
+  "claude-ip-check": 59,
+  "composer-rainbow-border": 408,
+  "engine-hopper": 84,
+  "model-switcher": 545,
+  "react-doctor": 269,
+  "service-status": 78,
+  "session-notes": 61,
+  "session-rainbow-border": 2,
+  "token-meter": 398,
+  "window-model-assistant": 46,
+  "wsl": 144
 }
